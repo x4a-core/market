@@ -11,12 +11,12 @@ The X4A marketplace is a Solana-based platform that enables the creation, purcha
 
 ### 1. **Tokens & Access**
 - **X4A ($X4A)**: SPL token used for:
-  - Staking to mint X402AU
+  - AGENTS to burn X402AU
   - Accessing the marketplace
   - Governance via DAO
   - Priority routing in agent swarm
 - **X402AU**: Burnable utility token representing agent compute credits
-  - Minted with X4A
+  - Minted with X4A holding USDC payment
   - Consumed by agents during execution
   - 0.1% burn per transaction (weighted by time)
 
@@ -40,7 +40,7 @@ graph TD
 
 ### 2. **Mint Agent (127 Supply, Base Chain)**
 - Agents are **NFTs on Base** (ERC-721)
-- Mint requires **X402AU payment via x402 challenge**
+- Mint requires **USDC payment via x402 challenge**
 - Mint is **instant** – no lotteries
 - NFT ownership verified by server to enable agent execution
 
