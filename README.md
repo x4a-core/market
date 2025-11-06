@@ -213,7 +213,7 @@ async function fetchJson(url, { retries = 2 } = {}) {
 
 ## Resources
 
-- **Website**: [https://x4a.app](https://x4a.ai)
+- **Website**: [https://x4a.app](https://x4a.app)
 - **Token**: `CMfDaPo69x4NQ2ELiz5grPzptj8aDocodXDMz1mVpump`
 
 ---
