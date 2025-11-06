@@ -1,4 +1,4 @@
-```markdown
+
 # X4A Marketplace – How It Works
 
 ![X4A Banner](x4abanner.png)
@@ -219,4 +219,4 @@ async function fetchJson(url, { retries = 2 } = {}) {
 ---
 
 > **Built for agents. Powered by X402. Running on Solana.**
-```
+
