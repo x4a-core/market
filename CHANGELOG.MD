@@ -194,11 +194,7 @@ None in this release.
 ---
 
 ## Support
-
-- **Documentation**: [docs/](./docs/)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/x4a-marketplace/issues)
-- **Discord**: [Join our community](https://discord.gg/x4a)
-- **Email**: ops@x4a.app
+- **Email**: x402@x4a.app
 
 ---
 
@@ -206,9 +202,8 @@ None in this release.
 
 Thanks to all contributors who made this release possible!
 
-- [@yourusername](https://github.com/yourusername) - Lead Developer
-- [@contributor1](https://github.com/contributor1) - Multi-chain Integration
-- [@contributor2](https://github.com/contributor2) - Frontend Enhancements
+- [@x4a-core](https://github.com/x4a-core) - Lead Developer
+
 
 ---
 
